@@ -1,3 +1,5 @@
+[![Build Status](https://hackorg.visualstudio.com/Calculator/_apis/build/status/manikandanramaswami.calculator?branchName=master)](https://hackorg.visualstudio.com/Calculator/_build/latest?definitionId=8&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
